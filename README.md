@@ -19,3 +19,4 @@
 •	Beta Group Significance Analysis (PERMANOVA)
 •	Taxonomic Analysis: Download the trained naive Bayes classifier for the v4 hypervariable region
 •	Predicting categorical sample data with machine learning classifiers
+
