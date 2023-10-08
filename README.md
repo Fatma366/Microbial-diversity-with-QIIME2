@@ -4,9 +4,9 @@
 
 •	Qiime2 is one of the latest bioinformatics tools used in microbial diversity analysis.
 
-•	For set up and installation of QIIME2 use the link: https://github.com/Fatma366/16S-rRNA-End-to-End-Analysis#set-up-and-installation-qiime2
+•	For set up and installation of QIIME2 use the link: [Set Up And Installation (QIIME2)](https://github.com/Fatma366/16S-rRNA-End-to-End-Analysis#set-up-and-installation-qiime2)
 
-•	For tutorials involving QIIME2 use the link: https://github.com/Fatma366/16S-rRNA-End-to-End-Analysis#qiime2-analysis
+•	For tutorials involving QIIME2 use the link: [QIIME2 Analysis](https://github.com/Fatma366/16S-rRNA-End-to-End-Analysis#qiime2-analysis)
 
 
 •	The analysis involves the following steps: Included in the Microbial-Qiime2-analysis.sh and the last step in sample-classifier.sh
